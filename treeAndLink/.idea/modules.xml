@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ArrayAndSort/.idea/ArrayAndSort.iml" filepath="$PROJECT_DIR$/../ArrayAndSort/.idea/ArrayAndSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../danamicProgramming/.idea/danamicProgramming.iml" filepath="$PROJECT_DIR$/../danamicProgramming/.idea/danamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/treeAndLink.iml" filepath="$PROJECT_DIR$/.idea/treeAndLink.iml" />
+    </modules>
+  </component>
+</project>
